@@ -1,4 +1,4 @@
-# FlutFire
+# Flut Firebase Template 
 
 A Flutter project with implementation of all firebase libraries for Android and iOS both.
 
@@ -55,7 +55,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 # License
 
-    Copyright 2018 Pawan Kumar
+    Copyright 2023 Jorge
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
